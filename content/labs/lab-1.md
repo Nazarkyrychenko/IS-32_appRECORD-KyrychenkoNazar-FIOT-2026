@@ -57,8 +57,13 @@
 
 ## Скріншоти
 
-*(Тут ви вставите скріншоти вашого працюючого сайту-магазину, наприклад: `![Головна сторінка](/assets/labs/lab-1/screen1.png)`)*
+![Головна сторінка магазину](/assets/labs/lab-1/shop.png)
 
+![Header](/assets/labs/lab-1/shop-header.png)
+
+![Main](/assets/labs/lab-1/shop-main.png)
+
+![Footer](/assets/labs/lab-1/shop-footer.png)
 ---
 
 ## Висновки
